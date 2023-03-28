@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab6-Prodan.D.A3\Lab6\Lab6\Car.h(20,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Circuit.cpp
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab6-Prodan.D.A3\Lab6\Lab6\Car.h(20,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab6-Prodan.D.A3\Lab6\Lab6\Circuit.cpp(110,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Lab6.vcxproj -> C:\Users\User\Desktop\Documente\OOP\OOP-Lab6-Prodan.D.A3\Lab6\x64\Debug\Lab6.exe
