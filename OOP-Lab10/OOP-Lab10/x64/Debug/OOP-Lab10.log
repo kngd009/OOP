@@ -1,0 +1,52 @@
+﻿cl : command line  warning D9002: ignoring unknown option '-std=gnu++17'
+  OOP-Lab10.cpp
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(53,39): error C3861: 'Size': identifier not found
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(58,2): message : see reference to class template instantiation 'ArrayIterator<T>' being compiled
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(56,16): error C3861: 'List': identifier not found
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(53,39): error C2065: 'Size': undeclared identifier
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(56,16): error C2065: 'List': undeclared identifier
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(209,20): error C2838: 'Sort': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(352,6): message : see reference to class template instantiation 'Array<T>' being compiled
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(209,27): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(209,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(216,20): error C2838: 'Sort': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(216,60): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(216,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(221,24): error C2838: 'Sort': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(221,50): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(221,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(229,19): error C2838: 'BinarySearch': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(229,47): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(229,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(250,19): error C2838: 'BinarySearch': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(250,82): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(250,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(274,19): error C2838: 'BinarySearch': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(274,68): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(274,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(308,23): error C2838: 'Find': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(308,79): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(308,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(320,23): error C2838: 'Find': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(320,66): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(320,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(332,23): error C2838: 'GetSize': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(332,33): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(332,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(337,23): error C2838: 'GetCapacity': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(337,37): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(337,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(342,36): error C2838: 'GetBeginIterator': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(342,55): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(342,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(347,36): error C2838: 'GetEndIterator': illegal qualified name in member declaration
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(347,53): error C2059: syntax error: '{'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(347,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(370,43): error C2039: 'GetBeginIterator': is not a member of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(358,13): message : see declaration of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(371,44): error C2039: 'GetEndIterator': is not a member of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(358,13): message : see declaration of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(378,31): error C2039: 'BinarySearch': is not a member of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(358,13): message : see declaration of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(381,27): error C2039: 'BinarySearch': is not a member of 'Array<int>'
+C:\Users\User\Desktop\Documente\OOP\OOP-Lab10\OOP-Lab10\OOP-Lab10.cpp(358,13): message : see declaration of 'Array<int>'
